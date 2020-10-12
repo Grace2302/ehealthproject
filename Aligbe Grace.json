@@ -1,0 +1,208 @@
+﻿{
+  "#comment": "",
+  "html": {
+    "head": {
+      "meta": {
+        "@charset": "utf-8"
+      },
+      "title": "RESUME OF ALIGBE GRACE"
+    },
+    "style": "body{\n         background-color: white;\n         color: black;\n         font-size: 100px;\n         border:30px solid purple;\n         top:10px;\n         float: left;\n         transition: background 0.2s linear;\n          }\n\n      body.dark{\n        background-color: black;\n       }\n  \n       .checkbox: {\n       capacity:0;\n       position:absolute;\n       }\n\n     *{\n        box-sizing: border-box;\n      }\n\n     .label{\n        background-color:grey;\n        display:flex;\n        align-items:top;\n        justify-content:space-between;\n        border-radius:10px;\n        position:right;\n        padding:5px;\n        height:5px;\n        width:20px;\n      }\n\n     .ball{\n        background-color:white;\n        border-radius:10px;\n        position:absolute;\n        height:7px;\n        width:8px;\n        transition:transform 0.2s linear;\n       }\n\n     .checkbox:checked + .label .ball{\n        transform:translateX(24px);\n        }\n\n    \n\n     .fa-moon {\n        color: white;\n        }\n\n     .fa-sun {\n        color:yellow;\n        }\n     \n            \n      h1,h2,h3,h4,h5,h6,h7{ \n        background:grey;\n        Color:white;\n        font-size:22px;\n        font-family:sans-serif;\n        font-weight:bold;\n        margin-right:570px;\n        margin-bottom:40px;\n        border:5px solid \n        }\n      p{\n        font-family:fantasy;\n        font-size:13px;\n        right:50px;\n        margin-left:400px;\n        margin-bottom:10px;\n        margin-top:autopx;\n       }\n      div.species{\n        font-size:30px;\n        float:right;\n        color: brown;\n        top:15;\n       }",
+    "body": {
+      "div": {
+        "input": {
+          "@type": "checkbox",
+          "@class": "checkbox",
+          "@id": "checkbox"
+        },
+        "label": {
+          "@for": "checkbox",
+          "@class": "label",
+          "i": [
+            {
+              "@class": "fas fa-moon"
+            },
+            {
+              "@class": "fas fa-sun"
+            }
+          ],
+          "div": {
+            "@class": "ball"
+          }
+        },
+        "h1": "ALIGBE GRACE",
+        "div": {
+          "@class": "species",
+          "br": [
+            "",
+            "",
+            ""
+          ],
+          "a": [
+            {
+              "@href": "https://github.com/Grace2302",
+              "#text": "github.com/Grace2302"
+            },
+            {
+              "@href": "https://www.linkedin.com/in/grace-aligbe-469b90164",
+              "#text": "LinkedIn: Grace Aligbe"
+            }
+          ],
+          "#text": [
+            "08109669194",
+            "aligbegrace97@gmail.com"
+          ]
+        },
+        "img": {
+          "@src": "https://pbs.twimg.com/profile_images/1047076746812633089/fTqGE7l9.jpgg",
+          "@alt": "Aligbe Grace",
+          "@style": "width:250px;height:250px;"
+        },
+        "h2": "INTRODUCTION",
+        "p": [
+          "My name is Aligbe Grace, a Social Engineer from Delta State but born in Kano State. A trained facilitator, human resource officer, project manager and communicator. I love developing myself with new life skills as I am currently learning coding and web development. I love humanitarian service and I have volunteered for some community outreach program which mostly aims at children's health and wellbeing. Participated in conflict resolution and orientation in Plateau and Nassarawa States respectively.",
+          "Research, Reading, Facilitating, Traveling, Basketball, Old School Music Volunteering and web development.",
+          "Facilitator",
+          "Communicator",
+          "HTML",
+          "CSS",
+          "JAVASCRIPT",
+          {
+            "strong": "B.Sc. Sociology"
+          },
+          {
+            "br": "",
+            "#text": [
+              "Madonna University, Okija, Nigeria",
+              "2013-2017"
+            ]
+          },
+          {
+            "strong": "Master's in Social Work"
+          },
+          {
+            "br": "",
+            "#text": [
+              "Bayero University, Kano, Nigeria",
+              "2020-till date"
+            ]
+          },
+          {
+            "strong": "Build for SDGs",
+            "br": [
+              "",
+              ""
+            ],
+            "#text": [
+              "Participant",
+              "August 2020-till date"
+            ]
+          },
+          {
+            "strong": "Banco Fixed Odds",
+            "br": [
+              "",
+              ""
+            ],
+            "#text": [
+              "Personal Assistant to the MD",
+              "June 2019 – March 2020"
+            ]
+          },
+          {
+            "strong": "Adolescent Health and Information Project, Kano (AHIP)",
+            "br": [
+              "",
+              ""
+            ],
+            "#text": [
+              "Program Assistant",
+              "May 2018-March 2019"
+            ]
+          },
+          {
+            "strong": "PZ Cussons PLC, Kano",
+            "br": [
+              "",
+              ""
+            ],
+            "#text": [
+              "Retail Assistant",
+              "October 2012 – September 2013"
+            ]
+          }
+        ],
+        "h3": "INTEREST",
+        "h4": "SKILLS",
+        "center": {
+          "img": [
+            {
+              "@src": "http://W3.HTML",
+              "@alt": "HTML"
+            },
+            {
+              "@src": "http://W3.CSS",
+              "@alt": "CSS"
+            },
+            {
+              "@src": "http://W3.JavaScript",
+              "@alt": "JavaScript"
+            }
+          ]
+        },
+        "h5": "EDUCATION",
+        "h6": "EXPERIENCE",
+        "h7": "TRAININGS AND AWARDS"
+      },
+      "p": [
+        {
+          "br": "",
+          "strong": "Dept of Sociology/Anthropology Madonna University Okija",
+          "#text": "Academic Excellence"
+        },
+        {
+          "br": "",
+          "strong": "HACELAT PROFESSIONALS",
+          "#text": "Project Management Professional (PMP)"
+        },
+        {
+          "br": "",
+          "strong": "HACELAT PROFESSIONALS",
+          "#text": "Health and Safety Environment\n (HSE)"
+        },
+        {
+          "br": "",
+          "strong": "HACELAT PROFESSIONALS",
+          "#text": "Human Resource Management (HRM)"
+        },
+        {
+          "br": "",
+          "strong": "HACELAT PROFESSIONALS",
+          "#text": "Entrepreneurship Management"
+        },
+        {
+          "br": "",
+          "strong": "AHIP",
+          "#text": "Life Skills Training,"
+        },
+        {
+          "br": "",
+          "strong": "eHealth Africa Academy",
+          "#text": "Trained on Data Gathering using ODK Collect"
+        },
+        {
+          "br": "",
+          "strong": "eHealth Africa Academy",
+          "#text": "Trained on HTML and CSS"
+        },
+        {
+          "br": "",
+          "strong": "Save the Children",
+          "#text": "Trained on Humanitarianism"
+        }
+      ],
+      "center": "Copyright © 2020 ALIGBE GRACE",
+      "script": "var checkbox = document.getElementById(\"checkbox\");\n     var checkbox.addEventListener('change',()=>{\n      //change the background-color of the website\n    document.body.class list.toggle('dark');\n    ));"
+    }
+  }
+}
